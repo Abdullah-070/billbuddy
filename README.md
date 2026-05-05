@@ -6,8 +6,6 @@ An intelligent bill management and analysis application powered by Google's Gemi
 
 **Try the app now:** [https://billbuddy-ai-97323745133.asia-southeast1.run.app/](https://billbuddy-ai-97323745133.asia-southeast1.run.app/)
 
-> Deployed on Google Cloud Run using Google AI Studio with Google Developer Credits
-
 ## ✨ Features
 
 - **AI-Powered Bill Analysis** - Get intelligent insights about your bills using Gemini AI
