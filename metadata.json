@@ -1,0 +1,6 @@
+{
+  "name": "BillBuddy AI",
+  "description": "A smart, friendly assistant helping Pakistani users understand and reduce utility bills with AI-powered analysis and practical tips.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["image-to-text", "chat-assistant"]
+}
